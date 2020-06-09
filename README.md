@@ -1,5 +1,5 @@
 # colab-mlflow-papermill
-Colab,  MLflow and papermill are individually great. Together they are form a dream team.
+Colab,  MLflow and papermill are individually great. Together they form a dream team.
 
 For a detailed description see my blog post:
 https://arthought.com/colab-mflow-and-papermill/
